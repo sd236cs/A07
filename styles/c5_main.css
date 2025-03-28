@@ -28,8 +28,11 @@ header{
 }
 
 h1 {
-	border-top: 3px solid #931420;
-	border-bottom: 3px solid #931420;
+	border: 3px double #931420;
+	border-radius: 0.5em;
+	box-shadow: 5px 5px #000;
+	text-indent: 2em;
+	margin-bottom: 0.5em;
 }
 header h2 {
 	font-size: 175%;
